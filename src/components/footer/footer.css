@@ -1,0 +1,50 @@
+.footer {
+    padding: 50px 0px;
+    background-color: #fde4e4;
+}
+
+.footer .footer__logo img{
+    width: 20%;
+    margin-bottom: 5px;
+}
+
+.footer .footer__logo h5{
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.footer .footer__logo p{
+    font-size: 0.9rem;
+    color: #333;
+    line-height: 28px;
+}
+
+.delivery__time-item{
+    background-color: transparent !important;
+}
+
+.delivery__time-item span{
+    font-weight: 600;
+    font-size: 1rem;
+    color: #212245;
+    background: transparent;
+}
+
+.footer .footer__title{
+    font-size: 1.1rem;
+    color: #212245;
+    font-weight: 600;
+}
+
+.footer .newSletter{
+    padding: 7px 25px;
+    border: 1px solid #212245;
+    border-radius: 5px;
+
+}
+
+.footer .newSletter input{
+    background: transparent;
+    border: none;
+    outline: none;
+}
